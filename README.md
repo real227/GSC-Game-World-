@@ -1,1 +1,3 @@
-https://real227.github.io/GSC-Game-World-/
+# Лабороторна робота №8
+З Основи Компютерної інженерії
+[Мій сайт](https://real227.github.io/GSC-Game-World-/)
